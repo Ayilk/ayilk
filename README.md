@@ -1,4 +1,4 @@
-![Hi, I'm Sandra](https://github.com/Ayilk/SandraRangel/s.gif)
+![Hi, I'm Sandra](https://github.com/Ayilk/ayilk/s.gif)
 
 &nbsp;&nbsp;
 ## :star: Languages and Tools:
